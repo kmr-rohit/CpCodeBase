@@ -21,13 +21,27 @@ int solve(){
 	int n;
 	cin>>n;
 	vector<int> arr;
-	priority_queue<pair<int , int>>pq;
+	priority_queue<pair<int , int> , vector<pair<int , int >> , greater<pair<int , int>> >pq;
 	for(int i=0;i<n;i++){
 		int temp;
 		cin>>temp;
 		arr.push_back(temp);
 		pq.push(make_pair(temp , i));
 	}
+
+	while(pq.size()>1){
+		pair<int ,int>  f = pq.top();
+		pq.pop();
+		pair<int ,int> s = pq.top();
+		pq.pop();
+
+		if(f.first - 1 > 0 && s.first - 1 > 0 ){
+			pq.push({f.first - 1 ,f.second} );
+			pq.push({s.first - 1 ,s.second} );
+		}
+		
+	}
+
 	return pq.top().second + 1;
 }
 	
