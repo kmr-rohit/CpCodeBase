@@ -1,4 +1,23 @@
 {
+  "CF171642605": {
+    "contest_id": 1728,
+    "language": "GNU C++17",
+    "path": "codeforces\\1728\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Colored Balls: Revisited",
+    "problem_url": "https://codeforces.com/contest/1728/problem/A",
+    "submission_id": "CF171642605",
+    "submission_url": "https://codeforces.com/contest/1728/submission/171642605",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Sep/10/2022 23:09"
+  },
   "CF173450918": {
     "contest_id": 1730,
     "language": "GNU C++17",
