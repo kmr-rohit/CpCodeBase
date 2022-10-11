@@ -1,4 +1,22 @@
 {
+  "CF175578123": {
+    "contest_id": 1741,
+    "language": "GNU C++17",
+    "path": "codeforces\\1741\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Compare T-Shirt Sizes",
+    "problem_url": "https://codeforces.com/contest/1741/problem/A",
+    "submission_id": "CF175578123",
+    "submission_url": "https://codeforces.com/contest/1741/submission/175578123",
+    "tags": [
+      "implementation",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Oct/11/2022 20:20"
+  },
   "CF175598092": {
     "contest_id": 1741,
     "language": "GNU C++17",
