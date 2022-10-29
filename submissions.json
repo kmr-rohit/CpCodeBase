@@ -1,4 +1,22 @@
 {
+  "CF178368553": {
+    "contest_id": 1740,
+    "language": "GNU C++17",
+    "path": "codeforces\\1740\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Jumbo Extra Cheese 2",
+    "problem_url": "https://codeforces.com/contest/1740/problem/B",
+    "submission_id": "CF178368553",
+    "submission_url": "https://codeforces.com/contest/1740/submission/178368553",
+    "tags": [
+      "geometry",
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Oct/29/2022 16:02"
+  },
   "CF178398663": {
     "contest_id": 34,
     "language": "GNU C++17",
