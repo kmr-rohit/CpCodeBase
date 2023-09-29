@@ -1,4 +1,20 @@
 {
+  "CF225783847": {
+    "contest_id": 1878,
+    "language": "GNU C++17",
+    "path": "codeforces\\1878\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "How Much Does Daytona Cost?",
+    "problem_url": "https://codeforces.com/contest/1878/problem/A",
+    "submission_id": "CF225783847",
+    "submission_url": "https://codeforces.com/contest/1878/submission/225783847",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Sep/29/2023 19:13"
+  },
   "CF225965586": {
     "contest_id": 1875,
     "language": "GNU C++17",
