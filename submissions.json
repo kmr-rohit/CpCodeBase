@@ -1,4 +1,21 @@
 {
+  "CF227455614": {
+    "contest_id": 118,
+    "language": "GNU C++17",
+    "path": "codeforces\\118\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "String Task",
+    "problem_url": "https://codeforces.com/contest/118/problem/A",
+    "submission_id": "CF227455614",
+    "submission_url": "https://codeforces.com/contest/118/submission/227455614",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Oct/10/2023 02:08"
+  },
   "CF227456932": {
     "contest_id": 160,
     "language": "GNU C++17",
