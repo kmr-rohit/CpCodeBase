@@ -1,4 +1,22 @@
 {
+  "CF245899606": {
+    "contest_id": 1928,
+    "language": "GNU C++17",
+    "path": "codeforces\\1928\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Rectangle Cutting",
+    "problem_url": "https://codeforces.com/contest/1928/problem/A",
+    "submission_id": "CF245899606",
+    "submission_url": "https://codeforces.com/contest/1928/submission/245899606",
+    "tags": [
+      "constructive algorithms",
+      "geometry",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Feb/11/2024 23:17"
+  },
   "CF245905608": {
     "contest_id": 1928,
     "language": "GNU C++17",
