@@ -12,4 +12,5 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1 | [C - Physical Education Lesson](https://codeforces.com/contest/1928/problem/C) | [GNU C++17](./codeforces/1928/C.cpp) | `brute force` `math` `number theory` | Feb/12/2024 01:45 | 
+2 | [C - Physical Education Lesson](https://codeforces.com/contest/1928/problem/C) | [GNU C++17](./codeforces/1928/C.cpp) | `brute force` `math` `number theory` | Feb/12/2024 01:45 | 
+1 | [B - Equalize](https://codeforces.com/contest/1928/problem/B) | [GNU C++17](./codeforces/1928/B.cpp) | `binary search` `greedy` `sortings` `two pointers` | Feb/12/2024 00:08 | 
